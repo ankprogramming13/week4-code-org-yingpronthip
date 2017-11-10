@@ -2,7 +2,7 @@
 
 ### ภาพยืนยันความสมบูรณ์ (3 points)
 
-![Not Found](lab1.PNG)
+![Not Found](lab1.png.PNG)
 
 ### สรุปสิ่งที่ได้เรียนรู้จากกิจกรรม (2 points)
 
@@ -18,7 +18,7 @@ $$$$1
 
 ### ภาพยืนยันความสมบูรณ์ (3 points)
 
-![Not Found](lab2.PNG)
+![Not Found](lab2.png.PNG)
 
 ### สรุปสิ่งที่ได้เรียนรู้จากกิจกรรม (2 points)
 
@@ -34,7 +34,7 @@ $$$$2
 
 ### ภาพยืนยันความสมบูรณ์ (3 points)
 
-![Not Found](lab3.PNG)
+![Not Found](lab3.png.PNG)
 
 ### สรุปสิ่งที่ได้เรียนรู้จากกิจกรรม (2 points)
 
@@ -50,7 +50,7 @@ $$$$3
 
 ### ภาพยืนยันความสมบูรณ์ (3 points)
 
-![Not Found](lab4.PNG)
+![Not Found](lab4.png.PNG)
 
 ### สรุปสิ่งที่ได้เรียนรู้จากกิจกรรม (2 points)
 
